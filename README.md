@@ -37,10 +37,8 @@ prev_box_upper = np.copy(box_upper_1)
 # Create a named window
 cv.namedWindow('Pose Estimation (Chessboard)', cv.WINDOW_NORMAL)
 cv.resizeWindow('Pose Estimation (Chessboard)', 1080, 960)
-```
 
 
-```
  # Check if 'q' key is pressed to change the box shape
         key = cv.waitKey(1)
         if key == ord('q'):
@@ -75,7 +73,7 @@ cv.resizeWindow('Pose Estimation (Chessboard)', 1080, 960)
                 box_lower = np.copy(box_lower_2)
                 box_upper = np.copy(box_upper_2)
                 box_index = 2
-                ```
+```
 
 
 

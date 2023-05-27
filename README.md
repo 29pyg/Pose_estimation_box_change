@@ -10,6 +10,6 @@
 
 ![질문과 대답1](https://github.com/29pyg/ARbox/assets/61642764/5a030b2c-c1fc-4b08-b9c1-c5c9e2763af1)
 
-## chat gpt가 준 코드는 다음과 같다.
+chat gpt의 코드는 다음과 같다.
 
 ![image](https://github.com/29pyg/ARbox/assets/61642764/57f6b339-f33d-4325-a004-7f14d80e3a34)

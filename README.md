@@ -12,7 +12,7 @@
 
 ## chat gpt가 준 코드는 다음과 같다.
 
-import cv2
+'''import cv2
 
 # 동영상 파일 열기
 video = cv2.VideoCapture('동영상파일.mp4')
